@@ -1,4 +1,4 @@
-console.log("Javascript is Linked with html");
+console.log("index.js is Linked with html");
 
 //1 create variable for each Data type with a name of your choice: String, Number, Boolean, objects, arrays, undefined, null, float numbers
 //print all of them on the screen
