@@ -13,4 +13,25 @@ console.log("index.js is Linked with html");
 
 //6 create a variable called 'division' and assign the division of y & x to it
 
-//6 create a variable called 'divisionRemainder' and assign the module of y & x to it
+//7 create a variable called 'divisionRemainder' and assign the module of y & x to it
+
+// use the comparison operators (<=, >=	, <	, >, !==	, != , ===	, ==)
+// to write these expressions in programmatic way using these variables
+var value1 = 15;
+var value2 = 34;
+var value3 = 15;
+var value4 = "15";
+
+//print the result of:
+//example: `value1` equal to `value4`
+console.log(value1 == value4);
+
+//`value1` not equal to `value2`
+
+//`value2` greater than `value1`
+
+//`value1` less than  `value2`
+
+//`value1` equal value and equal type  `value3`
+
+//`value1` not equal value or not equal type  `value4`
