@@ -2,6 +2,7 @@ console.log("index.js is Linked with html");
 
 //1 create variable for each Data type with a name of your choice: String, Number, Boolean, objects, arrays, undefined, null, float numbers
 //print all of them on the screen
+var lsdjkfjlkfds = "sjkdflj";
 
 //2 create a variable call it 'x' and assign it to value 5 & a variable call it 'y' and assign it to value 14
 
