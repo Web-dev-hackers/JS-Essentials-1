@@ -24,3 +24,9 @@ console.log(counter);
 
 // 5 you have 2 variables 'a' has value 3 & 'b' has value 7, I want you to assign the value of b to a & the value of a to b
 // HINT: you can create a new variable to help you out
+var a = 3
+var b = 7
+var c
+c = a;
+
+b = c
